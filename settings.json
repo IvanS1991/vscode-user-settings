@@ -1,0 +1,13 @@
+{
+    "editor.matchBrackets": false,
+    "editor.autoClosingBrackets": false,
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 30,
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "boundary",
+    "workbench.colorTheme": "Monokai",
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "explorer.openEditors.visible": 0,
+}
